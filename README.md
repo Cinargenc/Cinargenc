@@ -45,9 +45,6 @@ To build secure infrastructure systems and contribute to large-scale backend arc
 
 ---
 
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/çınar-genç-32a320329/
